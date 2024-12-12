@@ -5,7 +5,7 @@ Wir machen Statistiken über die Kriminalität des Kantons Zürich.
 
 Die Daten haben wir vom Datenkatalog | Kanton Zürich:
 
-Straftaten nach Gesetz & Straftaten des StGB, BetmG und AIG
+Straftaten nach Gesetz & Straftaten des StGB (Strafgesetzbuch), BetmG (Beutäubungsmittelgesetz) und AIG (Ausländer- und Integrationsgesetz)
 
 https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1202@kantonspolizei-kanton-zuerich/distributions/2278
 
